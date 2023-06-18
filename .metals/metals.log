@@ -18,3 +18,62 @@ INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
 Jun 18, 2023 10:56:45 PM org.flywaydb.core.internal.command.DbMigrate logSummary
 INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.070s)
 2023.06.18 22:56:45 INFO  time: initialize in 0.89s
+2023.06.18 22:56:46 WARN  Build server is not auto-connectable.
+2023.06.18 22:57:00 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-8.0.372.7-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\marouan\AppData\Local\Temp\metals6776627637693179935\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.06.18 22:57:04 INFO  [info] welcome to sbt 1.8.3 (Temurin Java 1.8.0_372)
+2023.06.18 22:57:04 WARN  no build target for: C:\Users\marouan\Desktop\Scalaproj\schedulingapp\src\main\scala\schedulingapp\Main.scala
+2023.06.18 22:57:09 INFO  [info] loading global plugins from C:\Users\marouan\.sbt\1.0\plugins
+2023.06.18 22:57:16 INFO  no build target found for C:\Users\marouan\Desktop\Scalaproj\schedulingapp\src\main\scala\schedulingapp\Main.scala. Using presentation compiler with project's scala-library version: 3.3.0
+2023.06.18 22:57:16 WARN  no build target for: C:\Users\marouan\Desktop\Scalaproj\schedulingapp\src\test\scala\schedulingapp\MainSpec.scala
+Jun 18, 2023 10:57:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Jun 18, 2023 10:57:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2023.06.18 22:57:17 WARN  no build target for: C:\Users\marouan\Desktop\Scalaproj\schedulingapp\src\main\scala\schedulingapp\Main.scala
+2023.06.18 22:57:17 WARN  no build target for: C:\Users\marouan\Desktop\Scalaproj\schedulingapp\src\test\scala\schedulingapp\MainSpec.scala
+Jun 18, 2023 10:57:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+Jun 18, 2023 10:57:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Jun 18, 2023 10:57:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+2023.06.18 22:57:17 WARN  no build target for: C:\Users\marouan\Desktop\Scalaproj\schedulingapp\src\main\scala\schedulingapp\Main.scala
+2023.06.18 22:57:17 WARN  no build target for: C:\Users\marouan\Desktop\Scalaproj\schedulingapp\src\main\scala\schedulingapp\Main.scala
+2023.06.18 22:57:20 INFO  [info] loading settings for project schedulingapp-build-build from metals.sbt ...
+2023.06.18 22:57:20 INFO  [info] loading project definition from C:\Users\marouan\Desktop\Scalaproj\schedulingapp\project\project
+2023.06.18 22:57:23 INFO  [info] loading settings for project schedulingapp-build from metals.sbt ...
+2023.06.18 22:57:23 INFO  [info] loading project definition from C:\Users\marouan\Desktop\Scalaproj\schedulingapp\project
+2023.06.18 22:57:26 INFO  time: code lens generation in 8.77s
+2023.06.18 22:57:26 INFO  time: code lens generation in 2.72s
+2023.06.18 22:57:27 INFO  time: code lens generation in 9.91s
+2023.06.18 22:57:27 INFO  time: code lens generation in 10s
+2023.06.18 22:57:27 INFO  time: code lens generation in 10s
+2023.06.18 22:57:27 INFO  time: code lens generation in 21s
+2023.06.18 22:57:29 INFO  [success] Generated .bloop\schedulingapp-build.json
+2023.06.18 22:57:29 INFO  [success] Total time: 6 s, completed Jun 18, 2023 10:57:30 PM
+2023.06.18 22:57:33 INFO  [info] loading settings for project schedulingapp from build.sbt ...
+2023.06.18 22:57:33 INFO  [info] set current project to schedulingapp (in build file:/C:/Users/marouan/Desktop/Scalaproj/schedulingapp/)
+2023.06.18 22:57:34 INFO  [success] Generated .bloop\schedulingapp.json
+2023.06.18 22:57:34 INFO  [success] Generated .bloop\schedulingapp-test.json
+2023.06.18 22:57:34 INFO  [success] Total time: 1 s, completed Jun 18, 2023 10:57:34 PM
+2023.06.18 22:57:34 INFO  time: ran 'sbt bloopInstall' in 33s
+2023.06.18 22:57:35 INFO  Attempting to connect to the build server...
+2023.06.18 22:57:35 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jre-8.0.372.7-hotspot\ defined at C:\Users\marouan\.bloop\bloop.json
+2023.06.18 22:57:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\marouan\Desktop\Scalaproj\schedulingapp\.metals\bsp.trace.json or C:\Users\marouan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.06.18 22:57:35 INFO  Attempting to connect to the build server...
+2023.06.18 22:57:35 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jre-8.0.372.7-hotspot\ defined at C:\Users\marouan\.bloop\bloop.json
+2023.06.18 22:57:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\marouan\Desktop\Scalaproj\schedulingapp\project\.metals\bsp.trace.json or C:\Users\marouan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.06.18 22:57:35 INFO  time: Connected to build server in 0.41s
+2023.06.18 22:57:35 INFO  Connected to Build server: Bloop v1.5.6
+2023.06.18 22:57:35 INFO  time: Imported build in 0.17s
+2023.06.18 22:57:42 INFO  time: indexed workspace in 6.48s
+2023.06.18 22:57:42 INFO  compiling schedulingapp (1 scala source)
+2023.06.18 22:57:44 INFO  Deduplicating compilation of schedulingapp from bsp client 'Metals 0.11.12+123-68e76634-SNAPSHOT' (since 9.156s)
+2023.06.18 22:57:44 INFO  compiling schedulingapp (1 scala source)
+2023.06.18 22:57:48 INFO  compiling schedulingapp-test (1 scala source)
+2023.06.18 22:57:48 INFO  time: compiled schedulingapp in 3.85s
+2023.06.18 22:57:52 INFO  time: compiled schedulingapp-test in 4.03s
+Jun 18, 2023 10:58:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 76
+Jun 18, 2023 11:00:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
