@@ -1,0 +1,4 @@
+[debug] [schedulingapp-test] Classpath dependencies List()
+[debug] [schedulingapp-test] Dependencies from configurations List(schedulingapp)
+[debug] Bloop wrote the configuration of project 'schedulingapp-test' to 'C:\Users\marouan\Desktop\Scalaproj\schedulingapp\.bloop\schedulingapp-test.json'
+[success] Generated .bloop\schedulingapp-test.json
