@@ -6,7 +6,7 @@ This project is a minimal scheduling application implemented in Scala. It provid
 
 ## Features
 
-- Create persons with a unique name and email.
+- Create persons with a name and unique email.
 - Schedule one-hour meetings involving one or more persons.
 - View the schedule of a person.
 - Suggest available timeslots for a group of persons.
